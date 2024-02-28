@@ -42,3 +42,4 @@ Figma
 GitHub
   - Utilizamos para hospedarmos o código do projeto.
 ---
+<a href="(https://erivan-msilva.github.io/Codifica-o-Front-End/)">Clique Aqui</a> para Abrir o projeto!
